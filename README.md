@@ -10,12 +10,10 @@ I am a passionate Artificial Intelligence and Data Science student at K.L Univer
 💼 *Open to work:* Python Development, Data Analytics, and AI Projects
 
 📫 How to reach me: 
-Gmail:2100080214ai.ds@gmail.com 
-LinkedIn:www.linkedin.com/in/saivasmisistu
+- Gmail:2100080214ai.ds@gmail.com 
+- LinkedIn:www.linkedin.com/in/saivasmisistu
 
-<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" width="32">(mailto:saivamsisistu@gmail.com)
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/saivasmisistu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/saivasmisistu" height="30" width="40" /></a>
 
 ---
 ### **💻 Technical Skills**:
